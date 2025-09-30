@@ -1,2 +1,2 @@
 # webscraping_futbr
-Fixed a typo: endpoint -> endpoints
+Remember to fix the endpoints
