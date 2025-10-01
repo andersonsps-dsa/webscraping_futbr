@@ -2,8 +2,6 @@
 
 This project analyzes football data using scraping.
 
-## Usage Example
-Run the following command:
+## Warning
 
-```bash
-python main.py
+Fix the endpoints
